@@ -12,8 +12,7 @@ Adventure
 Simulation
 
 Repository Link: 
-https://drive.google.com/file/d/143_zZdlouspD9yebdGvkc0pNCJ-iSeYf/view?usp=sharing
-
+https://globalgamejam.org/2020/games/rise-corona-2
 To open the game, you should have unity installed on your computer. If you don't have, visit the official website to install it.
 
 To start the game, open the unity project, and click play in the main scene.
